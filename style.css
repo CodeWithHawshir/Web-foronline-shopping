@@ -1,0 +1,79 @@
+.ha{
+text-align: center;
+background-color: rgb(3, 83, 148) ;
+color: white;
+height: 100px;
+padding: 50px;
+margin-top: auto;
+margin-bottom: -16px;
+
+}
+.navbar{
+    background-color: midnightblue;
+    
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+list-style: none;
+margin: 15px;
+}
+.navbar li a{
+    padding: 15px 70px;
+text-decoration: none;
+color: white;
+}
+.navbar li a:hover{
+background-color: dodgerblue;
+}
+.hb{
+    text-align: center;
+    background-color: lightsteelblue;
+    padding: 10px 10px;
+}
+
+.t1, tr, th{
+     background-color: rgb(3, 83, 148) ;
+    color: white;
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+    padding: 18px;
+}
+.t1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+}
+.th:hover{
+    background-color: dodgerblue;
+}
+.menu{
+    color: midnightblue;
+    font-size: large;
+}
+.space{
+    margin: auto;
+}
+.t1 th a{
+    padding: 15px 100px;
+text-decoration: none;
+color: white;
+}
+.t1 th a:hover{
+background-color: dodgerblue;
+
+}
+.p1{
+    text-align: center;
+background-color: rgb(3, 83, 148) ;
+color: white;
+font-size: large;
+padding: 30px 50px;
+}
+.font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
